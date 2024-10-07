@@ -163,3 +163,8 @@
             padding-left: 60%;
         }
     } 
+
+    .connect_div,.cont_div{ 
+        font-size: larger;
+        padding: 5px;
+    }
